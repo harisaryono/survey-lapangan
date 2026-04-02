@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.pytest_cache/
+.mypy_cache/
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# OS / Editor
+.DS_Store
+.vscode/
+.idea/
+
+# Uploads / generated files
+media/
+reports/
+coverage/
